@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://basalam-hub.ir/</loc>
-     <lastmod>2021-07-21</lastmod>
+     <lastmod>2021-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://basalam-hub.ir/group-sell/</loc>
-     <lastmod>2021-07-21</lastmod>
+     <lastmod>2021-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://basalam-hub.ir/ads/credit-gift/</loc>
+     <lastmod>2021-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
