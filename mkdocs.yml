@@ -62,3 +62,5 @@ extra:
 nav:
   - شروع: 'index.md'
   - فروش گروهی: 'group-sell.md'
+  - توی چشم:
+    - فعال کردن شارژ: 'ads/credit-gift.md'
